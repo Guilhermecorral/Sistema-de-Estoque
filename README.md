@@ -1,33 +1,47 @@
-INVENTORY SYSTEM (Console - Java)
+📦 Inventory System (Console - Java)
 
-Sistema simples de controle de estoque desenvolvido em Java para prática de Programação Orientada a Objetos.
+Sistema de controle de estoque via console desenvolvido em Java com foco em prática de Programação Orientada a Objetos e organização de responsabilidades.
 
-FUNCIONALIDADES
+🚀 Funcionalidades
 
-Registrar produto
+Cadastro de produtos
 
-Listar produtos
+Listagem de produtos
 
-Adicionar estoque
+Atualização de estoque (entrada e saída)
 
-Remover estoque
+Busca de produto por ID
 
-ID gerado automaticamente
+Geração automática de identificador
 
-TECNOLOGIAS
+🏗 Estrutura
 
-Java
+Principal → Interface com o usuário
 
-IntelliJ IDEA
+Stock → Gerenciamento da coleção de produtos
 
-Git
+Produto → Entidade com regras e validações
 
-CONCEITOS APLICADOS
+🧠 Conceitos Aplicados
 
 Encapsulamento
 
 Separação de responsabilidades
 
-Uso de ArrayList
+Manipulação de coleções com ArrayList
+
+Estruturas de repetição
+
+Controle de fluxo com switch-case
 
 Validação de dados
+
+🔄 Próximas Evoluções
+
+Implementação de fornecedor
+
+Tratamento de exceções mais robusto
+
+Persistência de dados (arquivo ou banco)
+
+Refatoração para melhor organização em pacotes
