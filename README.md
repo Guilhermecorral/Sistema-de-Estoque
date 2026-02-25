@@ -44,4 +44,4 @@ Sistema de controle de estoque via console desenvolvido em Java com foco em prá
 
 - Persistência de dados (arquivo ou banco)
 
- Refatoração para melhor organização em pacotes
+- Refatoração para melhor organização em pacotes
