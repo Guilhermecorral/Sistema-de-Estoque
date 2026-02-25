@@ -9,7 +9,7 @@ public class Produto {
 
     public Produto(String name, int quantity, float price) {
 
-        if (name == null || name.trim().isEmpty()) {
+        if (name == null || name.trim().isEmpty() || name == name) {
             throw new IllegalArgumentException("Name cannot be empty");
         }
         if (quantity <= 0) {

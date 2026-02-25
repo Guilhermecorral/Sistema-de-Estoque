@@ -17,6 +17,7 @@ public class Principal {
             System.out.println("5 - EXIT");
             System.out.print(":");
             option = input.nextInt();
+            input.nextLine();
 
             switch (option) {
                 case 1:
