@@ -34,7 +34,3 @@ Projeto prático para treinar **Programação Orientada a Objetos** em Java. Um 
    ```bash
    git clone https://github.com/Guilhermecorral/Sistema-de-Estoque.git
    cd Sistema-de-Estoque
-Abra no IntelliJ e execute a classe Principal
-OU via terminal:
-javac src/*.java
-java -cp src Principal  # ajuste se o pacote for diferente
